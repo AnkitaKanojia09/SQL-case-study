@@ -1,5 +1,6 @@
 Here is the SQL end-to-end project in which we did a Case Study on the Google Play Store 
 enjoy it :-)
+
 #Project Overview:
 Google Play Store Apps Case Study Using SQL.
 
